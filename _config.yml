@@ -72,7 +72,7 @@ author:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://yata.mac-anu.org"
-    - label: "IRC (libera.chat)"
+    - label: "#zsh (libera.chat)"
       icon: "fas fa-fw fa-link"
       url: "ircs://irc.libera.chat:6697/zsh"
     - label: "GitHub"
@@ -84,7 +84,7 @@ author:
 
 footer:
   links:
-    - label: "IRC (libera.chat)"
+    - label: "#zsh (libera.chat)"
       icon: "fas fa-fw fa-link"
       url: "ircs://irc.libera.chat:6697/zsh"
     - label: "GitHub"
